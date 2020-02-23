@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">codepath-flashcard-app</string>
+    <string name="new_flash_card">New Flash Card</string>
+</resources>
