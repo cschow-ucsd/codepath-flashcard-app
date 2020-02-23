@@ -7,7 +7,6 @@ Flashcard app that allows users to view flash cards and answer them. Multiple fl
 and the app is able to cycle through the cards and display it to the user.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 ![](flashcard.gif)
 
