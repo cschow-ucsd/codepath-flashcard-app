@@ -1,9 +1,9 @@
 package com.example.codepath_flashcard_app
 
 data class FlashcardQuestion(
-    val question: String,
-    val correctAnswer: String,
-    val wrongAnswers: List<String>
+    var question: String,
+    var correctAnswer: String,
+    var wrongAnswers: List<String>
 ) {
     companion object {
         const val SIZE = 3
